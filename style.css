@@ -82,6 +82,11 @@ nav .navlinks li a{
      margin-right: 2.5rem;
 
 }
+nav .navlinks li a:hover{
+    color:#007ced;
+    
+
+}
 .container{
     display: flex;
     justify-content: space-around;
